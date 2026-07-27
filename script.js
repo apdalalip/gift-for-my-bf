@@ -8,7 +8,7 @@ const playlist = [
     { src: 'assets/lagu/lagu1.mp3', title: 'Hanya Untuk-Mu', artist: 'Ten2Five', cover: 'assets/cover/cover1.jpg' },
     { src: 'assets/lagu/lagu2.mp3', title: 'Aku Milikmu', artist: 'Dewa19', cover: 'assets/cover/cover2.jpg' },
     { src: 'assets/lagu/lagu3.mp3', title: 'Kangen', artist: 'Dewa19', cover: 'assets/cover/cover3.jpg' },
-    { src: 'assets/lagu/lagu4.mp3', title: 'Keabadian', artist: 'Reza Artamevia', cover: 'assets/cover/cover4.jpg' },
+    { src: 'assets/lagu/lagu6.mp3', title: 'Menceritakanmu', artist: 'Batas Senja', cover: 'assets/cover/cover6.jpg' },
     { src: 'assets/lagu/lagu5.mp3', title: 'Sempurna', artist: 'Andra & The Backbone', cover: 'assets/cover/cover5.jpg' }
 ];
 
